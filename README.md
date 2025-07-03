@@ -1,3 +1,6 @@
+
+<img src='./assets/YENWEI.png' alt="profile picture" />
+<p align="center"><em>source from <a href="https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/">landsat</a></em></p>
 <h1 align="center">Hi 👋, I'm Yen Wei Wang</h1>
 <h3 align="center">A frontend developer from Taiwan, Passionate about every thing can change the game</h3>
 
